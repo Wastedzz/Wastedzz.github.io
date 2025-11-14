@@ -166,13 +166,6 @@
       "summary": "Constructed graph representation learning framework based on mutual information maximization."
     }
   ],
-  "interests": [
-    {
-      "name": "Research Interests",
-      "icon": "fa-solid fa-flask",
-      "keywords": ["Diffusion-Based Sampling", "Neural Combinatorial Optimization", "Diffusion-Based Generation", "Probabilistic Inference"]
-    }
-  ],
   "projects": [
     {
       "name": "Diffusion Process-based Sampling Methods",
