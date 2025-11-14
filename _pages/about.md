@@ -28,6 +28,8 @@ My research interests lie at the intersection of **machine learning** and **prob
 
 - **Diffusion-Based Sampling**: Developing efficient sampling algorithms for complex discrete and continuous distributions
 - **Neural Combinatorial Optimization**: Designing learning-based solvers with emphasis on generalization and scalability
+- **AI4Science**: Applying AI techniques to scientific discovery and problem-solving
+- **Diffusion LLM**: Exploring diffusion models for large language model training and inference
 <!-- - **Graph Neural Networks**: Studying theoretical foundations and practical applications of graph-based deep learning -->
 
 For a complete list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=Ptf3uO0AAAAJ) profile.
