@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.5'
+          ruby-version: "3.3.5"
           bundler-cache: true
       - name: Test Jekyll Build
         run: |

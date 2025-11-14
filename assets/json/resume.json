@@ -170,12 +170,7 @@
     {
       "name": "Research Interests",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Diffusion-Based Sampling",
-        "Neural Combinatorial Optimization",
-        "Diffusion-Based Generation",
-        "Probabilistic Inference"
-      ]
+      "keywords": ["Diffusion-Based Sampling", "Neural Combinatorial Optimization", "Diffusion-Based Generation", "Probabilistic Inference"]
     }
   ],
   "projects": [
@@ -194,11 +189,7 @@
     {
       "name": "Combinatorial Optimization and Neural Solvers",
       "summary": "ASP universal neural routing optimization framework with game-theoretic self-play mechanisms",
-      "highlights": [
-        "IEEE TPAMI 2024 publication",
-        "Multi-task learning with Bandit algorithms",
-        "Deep reinforcement learning methods"
-      ],
+      "highlights": ["IEEE TPAMI 2024 publication", "Multi-task learning with Bandit algorithms", "Deep reinforcement learning methods"],
       "startDate": "2021",
       "endDate": "2024",
       "url": ""
@@ -206,11 +197,7 @@
     {
       "name": "Graph-based Deep Learning",
       "summary": "Theoretical analysis and practical applications of graph neural networks",
-      "highlights": [
-        "KDD 2025 paper on diffusion-based GNNs",
-        "Operator semigroup theory perspective",
-        "Graph representation learning"
-      ],
+      "highlights": ["KDD 2025 paper on diffusion-based GNNs", "Operator semigroup theory perspective", "Graph representation learning"],
       "startDate": "2022",
       "endDate": "2025",
       "url": ""

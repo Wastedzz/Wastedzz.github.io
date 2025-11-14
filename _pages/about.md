@@ -18,7 +18,7 @@ selected_papers: true
 social: false
 ---
 
-I am a PhD student in Computer Science at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). 
+I am a PhD student in Computer Science at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/).
 
 Prior to this, I obtained my Master's degree from the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the supervision of Prof. Tiande Guo, and my Bachelor's degree in Mathematics from [Zhengzhou University](https://www.zzu.edu.cn/).
 
@@ -50,9 +50,11 @@ For a complete list of my publications, please visit my [Google Scholar](https:/
 ## Experience
 
 **Research Intern** | Shanghai Artificial Intelligence Laboratory | 2025.07 - Present
+
 - Working on flow matching-based chemical retrosynthesis generation algorithms
 
-**Research Intern** | Peking University & King's College London | 2021.11 - 2022.06  
+**Research Intern** | Peking University & King's College London | 2021.11 - 2022.06
+
 - Game-theoretic approaches for combinatorial optimization
 - **Spotlight presentation** at ICLR 2022 Workshop
 
