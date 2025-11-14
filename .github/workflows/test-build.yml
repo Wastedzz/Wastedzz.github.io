@@ -1,0 +1,24 @@
+name: Test Build
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.5'
+          bundler-cache: true
+      - name: Test Jekyll Build
+        run: |
+          export JEKYLL_ENV=production
+          bundle exec jekyll build --verbose 2>&1 | tee build.log
+          echo "Build completed"
+      - name: Upload build log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-log
+          path: build.log
