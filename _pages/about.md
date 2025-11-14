@@ -1,34 +1,59 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student at <a href='https://www.cuhk.edu.cn/en'>The Chinese University of Hong Kong, Shenzhen</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
+  # more_info: >
+  #   <p>School of Data Science</p>
+  #   <p>CUHK-Shenzhen</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+latest_posts: false
+selected_papers: true
+social: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in Computer Science at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to this, I obtained my Master's degree from the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the supervision of Prof. Tiande Guo, and my Bachelor's degree in Mathematics from [Zhengzhou University](https://www.zzu.edu.cn/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research Interests
+
+My research interests lie at the intersection of **machine learning** and **probabilistic inference**, with a particular focus on:
+
+- **Diffusion-Based Sampling**: Developing efficient sampling algorithms for complex discrete and continuous distributions
+- **Neural Combinatorial Optimization**: Designing learning-based solvers with emphasis on generalization and scalability
+<!-- - **Graph Neural Networks**: Studying theoretical foundations and practical applications of graph-based deep learning -->
+
+For a complete list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=Ptf3uO0AAAAJ) profile.
+
+<!-- ## Academic Achievements
+
+**Publications**: 6 papers (5 as first or co-first author) in top-tier venues including **ICML**, **KDD**, and **IEEE TPAMI**
+
+**Citations**: 137 citations with an h-index of 5 ([Google Scholar](https://scholar.google.com/citations?user=Ptf3uO0AAAAJ)) -->
+
+## Recent News
+
+- **May 2025**: Our paper on discrete sampling via stochastic localization accepted to **ICML 2025**! 🎉
+- **March 2025**: Paper on efficient training of multi-task neural solver accepted to **TMLR**! 📄
+- **January 2025**: Paper on diffusion-based GNNs accepted to **KDD 2025**! 🎊
+- **November 2024**: Paper on universal neural solver published in **IEEE TPAMI** 📄
+
+## Experience
+
+**Research Intern** | Shanghai Artificial Intelligence Laboratory | 2025.07 - Present
+- Working on flow matching-based chemical retrosynthesis generation algorithms
+
+**Research Intern** | Peking University & King's College London | 2021.11 - 2022.06  
+- Game-theoretic approaches for combinatorial optimization
+- **Spotlight presentation** at ICLR 2022 Workshop
+
+---
+
+**I am always open to research collaborations and discussions.** Feel free to reach out via [email](mailto:chenguangwang@link.cuhk.edu.cn)!

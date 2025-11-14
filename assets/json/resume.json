@@ -1,200 +1,219 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chenguang Wang",
+    "label": "PhD Student in Computer Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chenguangwang@link.cuhk.edu.cn",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "School of Data Science",
+      "postalCode": "",
+      "city": "Shenzhen",
+      "countryCode": "CN",
+      "region": "Guangdong"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "Chenguang Wang",
+        "url": "https://scholar.google.com/citations?user=Ptf3uO0AAAAJ"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Shanghai Artificial Intelligence Laboratory",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2025-07",
+      "endDate": "",
+      "summary": "Working on Flow Matching-based chemical retrosynthesis generation algorithms",
+      "highlights": [
+        "Designed and implemented Flow Matching-based chemical retrosynthesis generation algorithms",
+        "Participated in constructing end-to-end retrosynthesis prediction systems"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Peking University & King's College London",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2021-11",
+      "endDate": "2022-06",
+      "summary": "Game-theoretic approaches for combinatorial optimization",
+      "highlights": [
+        "Applied reinforcement learning and game theory methods to combinatorial optimization",
+        "ICLR 2022 Workshop Spotlight Presentation"
+      ]
+    },
+    {
+      "name": "CAS Key Laboratory of Big Data Mining and Knowledge Management",
+      "position": "Undergraduate Research Assistant",
+      "url": "",
+      "startDate": "2019-03",
+      "endDate": "2019-06",
+      "summary": "Research on generative adversarial networks",
+      "highlights": [
+        "Participated in GAN-related theoretical research",
+        "Outstanding Undergraduate Thesis: A Comprehensive Survey on Generative Adversarial Networks"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "The Chinese University of Hong Kong, Shenzhen",
+      "location": "Shenzhen, China",
+      "url": "https://www.cuhk.edu.cn/en",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-09",
+      "endDate": "",
+      "score": "",
+      "courses": ["Machine Learning", "Probabilistic Inference", "Diffusion Models"]
+    },
+    {
+      "institution": "University of Chinese Academy of Sciences",
+      "location": "Beijing, China",
+      "url": "https://www.ucas.ac.cn/",
+      "area": "Operations Research and Cybernetics",
+      "studyType": "Master of Science",
+      "startDate": "2019-09",
+      "endDate": "2022-06",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Zhengzhou University",
+      "location": "Zhengzhou, China",
+      "url": "https://www.zzu.edu.cn/",
+      "area": "Mathematics and Applied Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2015-09",
+      "endDate": "2019-06",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Shenzhen Institute of Big Data PhD Student Scholarship",
+      "date": "2023-2025",
+      "awarder": "Shenzhen Institute of Big Data",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "ICLR 2022 Workshop Spotlight Presentation",
+      "date": "2022",
+      "awarder": "ICLR Workshop on Gamification and Multiagent Solutions",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Outstanding Participant in Oxford International Exchange Program",
+      "date": "",
+      "awarder": "Oxford University",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Outstanding Undergraduate Thesis Award",
+      "date": "2019",
+      "awarder": "Zhengzhou University",
+      "url": "",
+      "summary": "A Comprehensive Survey on Generative Adversarial Networks"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Sampling from Binary Quadratic Distributions via Stochastic Localization",
+      "publisher": "ICML 2025",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Proposed efficient discrete sampling algorithms based on stochastic localization. (CCF A-class)"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective of Operator Semigroup Theory",
+      "publisher": "KDD 2025",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Analyzed oversmoothing phenomena in diffusion-based continuous GNNs. (CCF A-class)"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "ASP: Learn a Universal Neural Solver!",
+      "publisher": "IEEE TPAMI 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Proposed ASP universal neural routing optimization framework. (CCF A-class)"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Efficient Training of Multi-task Neural Solver for Combinatorial Optimization",
+      "publisher": "TMLR 2025",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Designed Multi-armed Bandits-based task selection strategies for multi-task optimization."
+    },
+    {
+      "name": "Solving uncapacitated P-Median problem with reinforcement learning assisted by graph attention networks",
+      "publisher": "Applied Intelligence 2023",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Learning Graph Representation by Aggregating Subgraphs via Mutual Information Maximization",
+      "publisher": "Neurocomputing 2023",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "Constructed graph representation learning framework based on mutual information maximization."
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research Interests",
+      "icon": "fa-solid fa-flask",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Diffusion-Based Sampling",
+        "Neural Combinatorial Optimization",
+        "Diffusion-Based Generation",
+        "Probabilistic Inference"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Diffusion Process-based Sampling Methods",
+      "summary": "Proposed efficient discrete sampling algorithms and Neural Samplers based on Diffusion Models",
+      "highlights": [
+        "ICML 2025 paper on stochastic localization",
+        "Importance Sampling-based diffusion samplers",
+        "High-performance PyTorch/JAX implementation"
+      ],
+      "startDate": "2023",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Combinatorial Optimization and Neural Solvers",
+      "summary": "ASP universal neural routing optimization framework with game-theoretic self-play mechanisms",
+      "highlights": [
+        "IEEE TPAMI 2024 publication",
+        "Multi-task learning with Bandit algorithms",
+        "Deep reinforcement learning methods"
+      ],
+      "startDate": "2021",
+      "endDate": "2024",
+      "url": ""
+    },
+    {
+      "name": "Graph-based Deep Learning",
+      "summary": "Theoretical analysis and practical applications of graph neural networks",
+      "highlights": [
+        "KDD 2025 paper on diffusion-based GNNs",
+        "Operator semigroup theory perspective",
+        "Graph representation learning"
+      ],
+      "startDate": "2022",
+      "endDate": "2025",
+      "url": ""
     }
   ]
 }
