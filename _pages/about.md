@@ -42,6 +42,8 @@ For a complete list of my publications, please visit my [Google Scholar](https:/
 
 ## Recent News
 
+- **May 2026**: Paper on retrosynthesis accepted to **ICML 2026**! 🎉
+- **January 2026**: Two papers accepted to **ICLR 2026**! 🎉
 - **May 2025**: Our paper on discrete sampling via stochastic localization accepted to **ICML 2025**! 🎉
 - **March 2025**: Paper on efficient training of multi-task neural solver accepted to **TMLR**! 📄
 - **January 2025**: Paper on diffusion-based GNNs accepted to **KDD 2025**! 🎊
