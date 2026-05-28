@@ -79,18 +79,8 @@
       "endDate": "2022-06",
       "score": "",
       "courses": []
-    },
-    {
-      "institution": "Zhengzhou University",
-      "location": "Zhengzhou, China",
-      "url": "https://www.zzu.edu.cn/",
-      "area": "Mathematics and Applied Mathematics",
-      "studyType": "Bachelor of Science",
-      "startDate": "2015-09",
-      "endDate": "2019-06",
-      "score": "",
-      "courses": []
     }
+
   ],
   "awards": [
     {
@@ -113,14 +103,8 @@
       "awarder": "Oxford University",
       "url": "",
       "summary": ""
-    },
-    {
-      "title": "Outstanding Undergraduate Thesis Award",
-      "date": "2019",
-      "awarder": "Zhengzhou University",
-      "url": "",
-      "summary": "A Comprehensive Survey on Generative Adversarial Networks"
     }
+
   ],
   "publications": [
     {

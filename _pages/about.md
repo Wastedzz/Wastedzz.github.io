@@ -20,7 +20,7 @@ social: false
 
 I am a PhD student in Computer Science at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/).
 
-Prior to this, I obtained my Master's degree from the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the supervision of Prof. Tiande Guo, and my Bachelor's degree in Mathematics from [Zhengzhou University](https://www.zzu.edu.cn/).
+Prior to this, I obtained my Master's degree from the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the supervision of Prof. Tiande Guo.
 
 ## Research Interests
 
