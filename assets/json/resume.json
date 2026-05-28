@@ -57,31 +57,7 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "The Chinese University of Hong Kong, Shenzhen",
-      "location": "Shenzhen, China",
-      "url": "https://www.cuhk.edu.cn/en",
-      "area": "Computer Science",
-      "studyType": "PhD",
-      "startDate": "2022-09",
-      "endDate": "",
-      "score": "",
-      "courses": ["Machine Learning", "Probabilistic Inference", "Diffusion Models"]
-    },
-    {
-      "institution": "University of Chinese Academy of Sciences",
-      "location": "Beijing, China",
-      "url": "https://www.ucas.ac.cn/",
-      "area": "Operations Research and Cybernetics",
-      "studyType": "Master of Science",
-      "startDate": "2019-09",
-      "endDate": "2022-06",
-      "score": "",
-      "courses": []
-    }
-
-  ],
+  "education": [],
   "awards": [
     {
       "title": "Shenzhen Institute of Big Data PhD Student Scholarship",
