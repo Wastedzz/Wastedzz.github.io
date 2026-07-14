@@ -42,6 +42,7 @@ For a complete list of my publications, please visit my [Google Scholar](https:/
 
 ## Recent News
 
+- **June 2026**: Paper on principled task grouping for multi-task learning accepted to **TMLR** (with **Reproducibility Certification** and **J2C Certification**), and recommended for presentation at **NeurIPS 2026** via the J2C track! 🎉
 - **May 2026**: Paper on retrosynthesis accepted to **ICML 2026**! 🎉
 - **January 2026**: Two papers accepted to **ICLR 2026**! 🎉
 - **May 2025**: Our paper on discrete sampling via stochastic localization accepted to **ICML 2025**! 🎉
